@@ -54,3 +54,9 @@ def get_ktkkt_video_url(ktkkt_url: str):
         f.write(driver.page_source)
 
     driver.quit()
+
+
+# 23:59
+# 24:25
+
+get_ktkkt_video_url("https://www.ktkkt.top/play/15560-0-0.html")
