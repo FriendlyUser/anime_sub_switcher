@@ -58,5 +58,8 @@ def get_ktkkt_video_url(ktkkt_url: str):
 
 # 23:59
 # 24:25
-
-get_ktkkt_video_url("https://www.ktkkt.top/play/15560-0-0.html")
+# https://v5.szjal.cn/20200919/fXBYVxYE/index.m3u8
+# https://v5.szjal.cn/20210624/UYxj8q0t/index.m3u8
+get_ktkkt_video_url("https://ktkkt.top/movie/index14100.html")
+# 22.6 seconds
+# 9.8   
