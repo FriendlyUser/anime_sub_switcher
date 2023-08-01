@@ -45,6 +45,7 @@ Slow down/ speed up video
 
 https://trac.ffmpeg.org/wiki/How%20to%20speed%20up%20/%20slow%20down%20a%20video
 
+https://dubdb.fandom.com/wiki/%E8%9C%98%E8%9B%9B%E4%BF%A0%EF%BC%9A%E9%A3%9B%E8%BA%8D%E8%9C%98%E8%9B%9B%E5%AE%87%E5%AE%99
 
 To sync audio think I need to do counting, if it gets out of sync, then I need to adjust the time offset. Time its just a certain part of the ending getting sped up disproportionately.
 
