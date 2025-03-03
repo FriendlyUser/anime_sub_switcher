@@ -62,3 +62,8 @@ gogoanime anime stream at
 to remove audio from video
 
 ffmpeg -i tft_gapped_by_yuumi.mp4 -vcodec copy -an  tft_gapped_by_yuumi_no_audio.mp4
+
+
+To download from ffmpeg -i "https://example.com/stream.m3u8" -c copy myvideo.mp4
+
+m3u8
